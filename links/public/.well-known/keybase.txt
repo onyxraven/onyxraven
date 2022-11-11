@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/onyxraven
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://onyxraven.com
+  * I am onyxraven (https://keybase.io/onyxraven) on keybase.
+  * I have a public key ASDvXaLkAToT-kzxG89Tk6Rz6znNTTTAYwRo-JltkqRT7Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014118f844331d7bda3ac3c561bde4b39bffb679a8e16ab18690f2ecccdbc1fa050a",
+      "host": "keybase.io",
+      "kid": "0120ef5da2e4013a13fa4cf11bcf5393a473eb39cd4d34c0630468f8996d92a453ec0a",
+      "uid": "ed0721a95ebcdf7cd9a183d0da0bd400",
+      "username": "onyxraven"
+    },
+    "merkle_root": {
+      "ctime": 1668123362,
+      "hash": "22ef2be089afc01d337c28cf558463996c79949e7f92e5a8c8ca477ce9e8db9fd4fe37995c2b6dfa7aad0ff7a2e13f98a5b3d27e3b57044e24463b1aa05253b4",
+      "hash_meta": "0f5ecd093b81952e38386b41bbc1adffa8671f4a440d41c37fc1291db9723c32",
+      "seqno": 23529876
+    },
+    "service": {
+      "entropy": "MxvuovDTL/YqjAbneblgr9/K",
+      "hostname": "onyxraven.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1668123452,
+  "expire_in": 504576000,
+  "prev": "22cab11dce01da5edf1924d81dd145b649354bb6ef0ce7100eff4c682725c93f",
+  "seqno": 121,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg712i5AE6E/pM8RvPU5Okc+s5zU00wGMEaPiZbZKkU+wKp3BheWxvYWTESpcCecQgIsqxHc4B2l7fGSTYHdFFtkk1S7bvDOcQDv9MaCclyT/EIFR5eVMweACMlva2BCBoHgTk0pABeRzCzNiHK0vXQF9qAgHCo3NpZ8RAJyoBSgzEo7qsa1amWnR7bRuT7HZiiAHCesNlOV9tZ7L/ICJP1tEZK9enGhqSTslMkvOS1imQjs2vfQNHz9BYDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIB1RHNqeBkTK3F+FvLmHH//ek9rhMtwqmBjlhfSuNbG6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/onyxraven
+
+==================================================================

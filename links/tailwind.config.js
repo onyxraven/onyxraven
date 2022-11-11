@@ -2,7 +2,7 @@ module.exports = {
   mode: "jit",
   content: [
     './public/**/*.html',
-    './src/**/*.{js,jsx,ts,tsx,vue}',
+    './src/**/*.{js,jsx,ts,tsx}',
   ],
   theme: {
     extend: {
@@ -13,7 +13,7 @@ module.exports = {
         },
       },
       animation: {
-        "gradient-shift": "gradient-shift 5s ease alternate infinite",
+        "gradient-shift": "gradient-shift 8s ease-in-out alternate infinite",
       },
     },
   },

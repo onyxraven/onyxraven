@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  background: linear-gradient(to right, #357, #579);
+  background: linear-gradient(to right, #246, #468);
   background-size: 400%;
   color: white; /* fallback color */
   @apply animate-gradient-shift bg-fixed bg-no-repeat py-10 text-base text-white;
