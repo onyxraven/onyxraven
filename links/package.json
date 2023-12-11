@@ -2,7 +2,7 @@
   "devDependencies": {
     "prettier": "^3.1.0",
     "prettier-plugin-tailwindcss": "^0.5.7",
-    "tailwindcss": "^3.3.5"
+    "tailwindcss": "^3.3.6"
   },
   "scripts": {
     "dev": "tailwindcss -i ./src/style-input.css -o ./public/style.css --watch",
